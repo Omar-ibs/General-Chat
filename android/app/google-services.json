@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24590793919",
+    "project_id": "messenger-om-2516a",
+    "storage_bucket": "messenger-om-2516a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24590793919:android:fe8cb0614bed5cd77eda0a",
+        "android_client_info": {
+          "package_name": "com.example.flach_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24590793919-ia4npes3t75vb9ur2g21bu1eabef5ars.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjkT3ImayztkVdYJWSmk674GPF7fxOLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24590793919-ia4npes3t75vb9ur2g21bu1eabef5ars.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
